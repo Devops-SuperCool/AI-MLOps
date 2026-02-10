@@ -1,5 +1,5 @@
-# 30‑Day Applied AI/ML + DevOps/MLOps + Generative AI (MCP) Program
 **Author: Altaf Shaik**
+# 30‑Day Applied AI/ML + DevOps/MLOps + Generative AI (MCP) Program
 Completed a 30‑day, production‑focused program spanning Applied AI/ML, DevOps/MLOps, and Generative AI with Model Context Protocol (MCP). The curriculum was self‑designed and executed using an AI‑enabled learning workflow, combining deep learning, cloud deployment, CI/CD automation, observability, and agent‑tool integration. This marks the start of my AI engineering journey.
 
 ---
